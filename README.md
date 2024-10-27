@@ -9,7 +9,8 @@ For a comprehensive insight into the project, including the project proposal, te
 [**🔗 Access Project Documentation**](https://docs.google.com/document/d/1fxH0KosFykiiI98hn4SFwPFiTEx6COz209OO5BqhXNw/edit?usp=sharing)  
 This document provides essential information about the project and showcases its core functionality! 🌟
 
-![Connector Project Screenshot](./Connector_ScreenShot.png)
+## 🎯 Screenshot:
+![Alt text](https://github.com/Jm0091/Connector/blob/main/Connector_ScreenShot.png)
 
 ## Project Highlights
 - **📈 Development Methodology**: Followed best practices in the Software Development Life Cycle (SDLC) to ensure high-quality deliverables.
