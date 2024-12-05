@@ -5,9 +5,10 @@
 The **Connector Web Application** is an innovative social networking platform crafted to connect users through shared interests. This capstone project is designed with a focus on user experience and community engagement, allowing individuals to create meaningful connections in a vibrant online environment. 🌐
 
 ## 📄 **Explore the Project Documentation!**
-For a comprehensive insight into the project, including the project proposal, test plan, ERD diagram, and UI mockups, **check out the detailed documentation here**:  
-[**🔗 Access Project Documentation**](https://docs.google.com/document/d/1fxH0KosFykiiI98hn4SFwPFiTEx6COz209OO5BqhXNw/edit?usp=sharing)  
+For a comprehensive insight into the project, including the project proposal, test plan, ERD diagram, and UI mockups, **check out the detailed documentation here**:  [**🔗 Access Project Documentation**](https://docs.google.com/document/d/1fxH0KosFykiiI98hn4SFwPFiTEx6COz209OO5BqhXNw/edit?usp=sharing)  (Code is not available).
+
 This document provides essential information about the project and showcases its core functionality! 🌟
+
 
 ## 🎯 Screenshot:
 ![Alt text](https://github.com/Jm0091/Connector/blob/main/Connector_ScreenShot.png)
